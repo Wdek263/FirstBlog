@@ -24,7 +24,7 @@
 <style lang="less" scoped>
 .header-container {
   position: relative;
-  display: none;
+  display:flex;
   height: calc(30vh);
   background: radial-gradient(ellipse at bottom, #303a49 0, #151628 100%);
   z-index: -1;

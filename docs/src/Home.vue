@@ -80,13 +80,12 @@ const handleTagClick = (tag) => {
   .container {
     margin: 0 auto;
     width: 100%;
-    
 
     @media (min-width: 768px) {
       display: flex;
       justify-content: center;
       max-width: 768px;
-      float: center;
+      float: ;
     }
 
     @media (min-width: 960px) {
@@ -130,8 +129,8 @@ const handleTagClick = (tag) => {
     text-align: center;
     margin-top: -80px;
 
-    @media (min-width: 390px) {
-      display: none;
+    @media (min-width: 768px) {
+      display: block;
     }
   }
 
