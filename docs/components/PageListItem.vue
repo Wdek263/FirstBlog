@@ -1,6 +1,5 @@
 <script setup>
 import { useRouter, useData } from 'vitepress';
-import Tag from './Tag.vue';
 
 const { localePath } = useData();
 const router = useRouter()
