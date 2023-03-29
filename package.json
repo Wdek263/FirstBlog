@@ -7,7 +7,7 @@
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
   },
-  "author": "LeoLun",
+  "author": "Dongw",
   "license": "MIT",
   "devDependencies": {
     "gray-matter": "^4.0.3",

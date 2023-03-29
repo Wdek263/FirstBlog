@@ -7,10 +7,10 @@ import CreatePages from './utils/create-pages';
 const getConfig = async () => {
   return withMermaid(
     defineConfig({
-      title: 'leolun',
+      title: 'Dong',
       base: '/',
       lang: 'zh-CN',
-      description: 'leolun blog',
+      description: 'Dong’log',
       outDir: '../dist',
       titleTemplate: 'blog',
       head: [
