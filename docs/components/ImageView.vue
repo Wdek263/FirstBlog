@@ -10,8 +10,8 @@ const openImage = (imgDom) => {
   const { naturalWidth, naturalHeight } = imgDom;
   // 获取当前页面大小
   const { clientWidth, clientHeight } = document.documentElement;
-  const maxWidth = clientWidth * 0.8;
-  const maxHeight = clientHeight * 0.8;
+  const maxWidth = clientWidth * 0.95;
+  const maxHeight = clientHeight * 0.95;
   let width = naturalWidth;
   let height = naturalHeight;
   let scaleWidth = 1;

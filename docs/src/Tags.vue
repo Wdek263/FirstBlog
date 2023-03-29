@@ -70,6 +70,12 @@ const handleTagClick = (tag) => {
 .tags-container {
   width: 800px;
   margin: auto;
+  @media (min-width: 390px) {
+    width: 390px;
+  }
+  @media (min-width: 768px) {
+    width: 700px;
+  }
 }
 .tags-list-content {
   margin: 16px 0;

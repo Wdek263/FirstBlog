@@ -85,7 +85,6 @@ const handleTagClick = (tag) => {
       display: flex;
       justify-content: center;
       max-width: 768px;
-      float: ;
     }
 
     @media (min-width: 960px) {
