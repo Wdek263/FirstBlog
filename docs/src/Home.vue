@@ -42,7 +42,7 @@ const handleTagClick = (tag) => {
 <template>
   <div class="container">
     <div class="aside">
-      <img class="header" src="../assets/hello-world/“Girls In The Windows”.jpg" />
+      <img class="header" src="../assets/hello-world/Girls.jpg" />
       <h1 class="name">Dongw</h1>
       <div class="subtitle">Stay hungry, Stay Foolish</div>
       <div class="link-tags">
